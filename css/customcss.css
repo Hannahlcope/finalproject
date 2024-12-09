@@ -1,0 +1,25 @@
+/* Sidebar - Light Pink */
+.navbar-dark {
+    background-color: #f3c3d4 !important; /* Light pink color for the sidebar */
+}
+
+.navbar-dark .navbar-brand,
+.navbar-dark .nav-link {
+    color: #5d4037 !important; /* Soft brown text for contrast */
+}
+
+.navbar-dark .navbar-brand:hover,
+.navbar-dark .nav-link:hover {
+    color: #3e2723 !important; /* Slightly darker brown on hover */
+}
+
+/* Main Background - Off White */
+body {
+    background-color: #f9f6f4 !important; /* Off-white background for the main content */
+    color: #5d4037; /* Soft brown text color */
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #da3873; /* Deep pink for headings */
+}
